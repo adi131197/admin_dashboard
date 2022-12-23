@@ -1,0 +1,31 @@
+.table {
+    margin-top: 0.5rem;
+    background-color: #F9ED62;
+}
+
+td, th {
+    border-bottom: 1px solid;
+    text-align:left;
+    padding: 0.5rem;
+    color: black;
+}
+
+.button {
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+    font-size: large;
+}
+
+.delete-button {
+    color: red;
+}
+
+.edit-text-input {
+    padding: .5rem;
+    border-radius: 5px;
+}
+
+.selected {
+    background-color: lightgrey;
+}
